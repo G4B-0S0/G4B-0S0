@@ -1,7 +1,7 @@
 - 👋 Hola, soy @G4B-0S0
 - 👀 Estoy interesado en la programacón y el desarrollo de aplicaciones web y moviles
 - 🌱 Actuamente esto aprendiendo // actualizandome en el lenguaje php - mysql, aprendo del lenguaje js y sobre flutter con dart para aplicativos moviles
-- 💞️ I’m looking to collaborate on ...
+<!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 Me pueden contactar a traves mi correo gyturrino@gmail.com
 
 
