@@ -1,4 +1,24 @@
-- 👋 Hola, soy @G4B-0S0
+# 👋 Hola, soy Gabriel Yturrino (@G4B-0S0)
+
+```php
+<!php 
+  echo "Hola Mundo";
+!>
+```
+```css
+.profile {
+  especialidad: Front End;
+}
+```
+
+```js
+const @G4B-0S0 = {
+	pronouns: "he" │ "him",
+	autodidact: [JavaScript, PHP, HTML, CSS, Flutter],
+	learning: [React, Node, Laravel, Taillwind, CodeIgniter, Symfony],
+}
+```
+
 - 👀 Estoy interesado en la programacón y el desarrollo de aplicaciones web y moviles
 - 🌱 Actuamente esto aprendiendo // actualizandome en el lenguaje php - mysql, aprendo del lenguaje js y sobre flutter con dart para aplicativos moviles
 <!-- - 💞️ I’m looking to collaborate on ... -->
