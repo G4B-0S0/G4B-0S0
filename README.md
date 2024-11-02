@@ -17,10 +17,11 @@ const @G4B-0S0 = {
 	autodidact: [JavaScript, PHP, HTML, CSS, Flutter],
 	learning: [React, Node, Laravel, Taillwind, CodeIgniter, Symfony],
 }
-
+```
 
 [![roadmap.sh](https://roadmap.sh/card/tall/6633cbb396279862ae7c9baf?variant=dark)](https://roadmap.sh)
-```
+
+
 
 - 👀 Estoy interesado en la programacón y el desarrollo de aplicaciones web y moviles
 - 🌱 Actuamente esto aprendiendo // actualizandome en el lenguaje php - mysql, aprendo del lenguaje js y sobre flutter con dart para aplicativos moviles
